@@ -1,16 +1,16 @@
 {
   "profile": {
-    "name": "Your Name",
+    "name": "Rohaan Patel",
     "title": "Software Developer",
-    "short_summary": "Passionate software developer experienced in C#, ASP.NET Core, Revit automation, WPF, and cloud-based solutions. Focused on building scalable tools, automation systems, and modern developer experiences.",
+    "short_summary": "Innovative Software Developer with expertise in Revit API, C#, WinForms, WPF, XAML, SQL, and Java. Passionate about automation, cloud computing, and database management. Adept at troubleshooting, optimizing performance, and developing scalable software solutions.",
     "profile_image": "./Images/profile.svg",
     "resume": {
-      "file_name": "Resume.pdf",
-      "path": "./data/Resume.pdf"
+      "file_name": "Rohaan_Resume.pdf",
+      "path": "./data/Rohaan_Resume_new.pdf"
     },
     "contact": {
-      "email": "someone@example.com",
-      "mailto": "mailto:someone@example.com",
+      "email": "rohaanpatel33@gmail.com",
+      "mailto": "mailto:rohaanpatel33@gmail.com",
       "linkedin": {
         "username": "your-linkedin-id",
         "url": "https://www.linkedin.com/in/your-linkedin-id/"
@@ -20,5 +20,39 @@
         "url": "https://github.com/souravkh"
       }
     }
-  }
+  },
+  "education": [
+    {
+      "institute": "Pillai Hoc College of Engineering & Technology",
+      "location": "Rasayani",
+      "degree": "BE - Computer Engineering",
+      "year": "2021",
+      "grade": "6.1 CGPA"
+    },
+    {
+      "institute": "Huda Junior College of Arts & Science",
+      "location": "Bhiwandi",
+      "degree": "HSC",
+      "year": "2016",
+      "grade": "60%"
+    },
+    {
+      "institute": "Holy Mary Convent High School",
+      "location": "Bhiwandi",
+      "degree": "SSC",
+      "year": "2014",
+      "grade": "63%"
+    }
+  ],
+  "skills": [
+    "Revit API", "C#", ".NET", "SQL", "WPF", "WinForms",
+    "XAML", "HTML", "CSS", "Java"
+  ],
+  "languages": ["English", "Hindi", "Marathi"],
+  "certifications": [
+    {
+      "title": "Software Development Certification",
+      "issuer": "JSpiders"
+    }
+  ]
 }
