@@ -3,21 +3,21 @@
     "name": "Rohaan Patel",
     "title": "Software Developer",
     "short_summary": "Innovative Software Developer with expertise in Revit API, C#, WinForms, WPF, XAML, SQL, and Java. Passionate about automation, cloud computing, and database management. Adept at troubleshooting, optimizing performance, and developing scalable software solutions.",
-    "profile_image": "./Images/profile.svg",
+    "profile_image": "./images/Profile.png",
     "resume": {
-      "file_name": "Rohaan_Resume.pdf",
-      "path": "./data/Rohaan_Resume_new.pdf"
+      "file_name": "Resume.pdf",
+      "path": "./data/Resume.pdf"
     },
     "contact": {
       "email": "rohaanpatel33@gmail.com",
       "mailto": "mailto:rohaanpatel33@gmail.com",
       "linkedin": {
         "username": "your-linkedin-id",
-        "url": "https://www.linkedin.com/in/your-linkedin-id/"
+        "url": "https://www.linkedin.com/in/rohaan-patel-159088224/"
       },
       "github": {
-        "username": "souravkh",
-        "url": "https://github.com/souravkh"
+        "username": "RohaanPatel",
+        "url": "https://github.com/RohaanPatel/"
       }
     }
   },
