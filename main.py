@@ -25,8 +25,8 @@ main_content = st.Page(
 st.logo("Images/bolt.svg")
 
 # 1. Custom content at the VERY top
-st.sidebar.title("Template - Portfolio")
-st.sidebar.markdown("Made with [Sourav](https://github.com/souravkh)")
+st.sidebar.title("Portfolio")
+st.sidebar.markdown("Made by [Sourav](https://github.com/souravkh)")
 st.sidebar.divider()
 
 # 2. Rebuild the navigation menu manually
